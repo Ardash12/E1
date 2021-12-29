@@ -1,0 +1,38 @@
+.header{
+	background: #101010;
+	height: 100px;
+}
+
+.navigation a{
+    color: white;
+    float: right;
+    padding: 35px 25px;
+    text-decoration: none;
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.logo{
+    float: left;
+    font-size: 30px;
+    padding: 25px 25px;
+}
+
+.logo a{
+    color: white;
+    text-decoration: none;
+}
+
+.img{
+    float:left;
+    margin: 7px 7px 7px 0;
+}
+
+.footer{
+    background-color: gray;
+    height: 150px;
+    padding: 7px 7px;
+}
